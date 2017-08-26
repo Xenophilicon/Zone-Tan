@@ -1,8 +1,0 @@
-{
-  "id": "350721238689251338",
-  "name": "OAuth2 Test",
-  "description": "",
-  "icon": null,
-  "secret": "F7TubbIPretIZR03Sl0WrHAEYt3T5R3n",
-  "redirect_uris": ["http://localhost:5000/callback"],
-}
